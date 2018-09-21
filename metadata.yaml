@@ -1,5 +1,5 @@
 _repo: Le-livre-de-la-Jungle_54183
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The jungle book. French
 contributor:
   translators:
@@ -16,6 +16,9 @@ contributor:
     deathdate: 1915
     gutenberg_agent_id: '47752'
     url: http://www.gutenberg.org/2009/agents/47752
+covers:
+- cover_type: archival
+  image_path: 54183-h/images/cover.jpg
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54183#Le-livre-de-la-Jungle
 gutenberg_bookshelf:
 - FR Jeunesse
 - FR Littérature
